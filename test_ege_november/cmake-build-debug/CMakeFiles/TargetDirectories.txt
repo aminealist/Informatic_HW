@@ -1,0 +1,3 @@
+D:/Apps/Programming/GitHub/Informatic_HW/test_ege_november/cmake-build-debug/CMakeFiles/test_ege_november.dir
+D:/Apps/Programming/GitHub/Informatic_HW/test_ege_november/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Apps/Programming/GitHub/Informatic_HW/test_ege_november/cmake-build-debug/CMakeFiles/rebuild_cache.dir
